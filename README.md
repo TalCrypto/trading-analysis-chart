@@ -1,2 +1,2 @@
-# trading-analysis-chart
+# Tradingview
 Created with CodeSandbox
